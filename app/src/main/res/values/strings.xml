@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">File Explorer</string>
+    <string name="most_used_files">Most used</string>
+    <string name="most_recent_files">Most recent</string>
+    <string name="favorite_files">Favorites</string>
+    <string name="title_most_used_files">Most used files</string>
+    <string name="title_most_recent_files">Most recent files</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="empty_folder">Empty folder.</string>
+    <string name="no_files_available">No files available.</string>
+    <string name="no_favorites">No favorites available.</string>
+    <string name="directory">directory</string>
+    <string name="map">map</string>
+    <string name="array_list">array_list</string>
+    <string name="title">title</string>
+    <string name="error">Error</string>
+    <string name="favorites_list_full">The favorites list is full.</string>
+
+</resources>

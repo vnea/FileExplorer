@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".FileExplorerMainActivity">
+    <item android:id="@+id/most_used_files" android:title="@string/most_used_files"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/most_common_files" android:title="@string/most_recent_files"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/favorite_files" android:title="@string/favorite_files"
+          android:showAsAction="never" />
+</menu>
